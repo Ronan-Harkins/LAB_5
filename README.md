@@ -1,5 +1,8 @@
 # LAB_5
 Lab 5 Embedded 
+
+##### By: Ronan Harkins, Zachary Bravo, Ike-Anyanwu Chinedu
+
 ### Objective
 The objective of this lab is to see how different analog sensors can be used with the MSP430FR2355's on board ADC components. For the first analog device that was used was the built in temperature sensor and the second sensor that was used was a photoresistor. These sensors had to be used by the ADC and display values that make sense to the reader.
 
@@ -26,3 +29,7 @@ This part of the lab the group had to use two sensors at the same time and obtai
 
 ### UML
 <img width="375" alt="image" src="https://user-images.githubusercontent.com/98828696/206330086-453df6ec-6d2f-48fe-a538-21c11bcf85da.png">
+
+
+![image](https://user-images.githubusercontent.com/98828696/206331137-d0bcb0c2-1382-477f-84d6-bebb49766f67.png)
+
